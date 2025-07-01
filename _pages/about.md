@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hiiiiiii! Welcome to my page!
+Hiiiiiii! Welcome to my page! :D
 
 I'm a sophomore student from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/index.htm). My major is [Xuetang Class of Economics](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jjxxtb.htm), which is aimed at training best economists. Fortunately, I get instructed by the most famous economist, [Pro. Yinyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm), and I do want to do some excellent works in economy. Besides that, I also have great interests in Maths, Physics, Politics and Chinese Literature. Now I am also studying a minor degree of Physics in Tsinghua. Learning physics is really attractive to me! I like reading and writing too, and you can view my works in this pages.
 
