@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+d# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headpict.png"
   name             : "李叶煊\n Yexuan Li"
-  pronouns         : # example: "she/her"  
+  pronouns         :  example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "DIMACS, Rutgers University, New Jersey"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liyexuan23@mails.tsinghua.edu.cn" 
 
   # Academic websites
   academia         : # URL
