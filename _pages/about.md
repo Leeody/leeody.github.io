@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /about/
+layout: home
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academabout/ic personal websites"
 author_profile: true
 redirect_from: 
