@@ -9,7 +9,7 @@ redirect_from:
 
 HI！
 
-I'm a sophomore student from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/index.htm).
+I'm a sophomore student from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/index.htm). My major is [Xuetang Class of Economics](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jjxxtb.htm),
 
 [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
