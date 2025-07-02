@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headpict.png"
-  name             : "李叶煊 Yexuan Li"
-  pronouns         : # example: "he/him"  
+  avatar           : "profile.png"
+  name             : "李叶煊\n Yexuan Li"
+  pronouns         :  example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "DIMACS, Rutgers University, New Jersey"
   employer         : "Tsinghua University"
