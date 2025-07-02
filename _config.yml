@@ -23,13 +23,13 @@ repository               : "Leeody/Leeody.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "李叶煊  YEXUAN LI"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "DIMACS, Rutgers University, New Jersey, USA"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liyexuan23@mails.tsinghua.edu.cn" 
 
   # Academic websites
   academia         : # URL
