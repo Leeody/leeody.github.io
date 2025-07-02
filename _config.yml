@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李叶煊\n Yexuan Li"
+  name             : "李叶煊 Yexuan Li"
   pronouns         :  example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "DIMACS, Rutgers University, New Jersey"
