@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Writings"
 permalink: /writings/
 author_profile: true
