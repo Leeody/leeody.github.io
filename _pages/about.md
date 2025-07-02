@@ -14,7 +14,7 @@ I'm a sophomore student from [School of Economics and Management](https://www.se
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [My Curriculum Vitae](../assets/CV Yexuan Li.pdf).
+You can find my CV here: [My Curriculum Vitae](<../assets/CV Yexuan Li.pdf>).
 
 [Email](liyexuan23@mails.tsinghua.edu.cn) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
