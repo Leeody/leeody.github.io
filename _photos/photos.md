@@ -18,7 +18,7 @@ Here I will share with you my favourite moments in my life!
 
 ## <a id="year-2025"></a>**2025**
 
-![北大未名湖](/images/photos/20250412_1.jpg)
+![北大未名湖](/images/20250412_1.jpg)
 
 ---
 
