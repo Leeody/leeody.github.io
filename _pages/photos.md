@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-# Welcome to my photo album!
+## Welcome to my photo album!
 
 Here I will share with you my favourite moments in my life!
 
