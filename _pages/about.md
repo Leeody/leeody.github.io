@@ -9,9 +9,7 @@ redirect_from:
 
 Hiiiiiii! Welcome to my page! :D
 
-I'm a sophomore student from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/index.htm). My major is [Xuetang Class of Economics](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jjxxtb.htm), which is aimed at training best economists. Fortunately, I get instructed by the most famous economist, [Pro. Yinyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm), and I do want to do some excellent works in economy. Besides that, I also have great interests in Maths, Physics, Politics and Chinese Literature. Now I am also studying a minor degree of Physics in Tsinghua. Learning physics is really attractive to me! I like reading and writing too, and you can view my works in this pages.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I'm a sophomore student from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/index.htm). My major is [Xuetang Class of Economics](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jjxxtb.htm), which is aimed at training best economists. Fortunately, I get instructed by the most famous economist, [Pro. Yinyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm), and I do want to do some excellent works in economy. Besides that, I also have great interests in Maths, Physics, Politics and Chinese Literature. Now I am also studying a minor degree of Physics in Tsinghua. Learning physics is really attractive to me! I like reading and writing too, and you can view my works in this website.
 
 You can find my CV here: [My Curriculum Vitae](<../assets/CV Yexuan Li.pdf>).
 
