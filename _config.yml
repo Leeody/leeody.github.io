@@ -22,9 +22,8 @@ repository               : "Leeody/Leeody.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headpict1.jpg"
-  name             : "李叶煊"
-  name             : "YEXUAN LI"
+  avatar           : "headpict1.jpg"
+  name             : "李叶煊       YEXUAN LI"
   pronouns         : "she/her"  
   bio              : "独立之精神，自由之思想"
   location         : "DIMACS, Rutgers University, NJ"
