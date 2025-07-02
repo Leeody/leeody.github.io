@@ -1,6 +1,6 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
+title: "Project 2：Model of Competiton between Countries"
+collection: recentworks
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
