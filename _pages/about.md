@@ -13,6 +13,8 @@ I'm a sophomore student from [School of Economics and Management](https://www.se
 
 You can find my CV here: [My Curriculum Vitae](<../assets/CV Yexuan Li.pdf>).
 
+Also, welcome to [My Bilibili Homepage](https://space.bilibili.com/1122146233?spm_id_from=333.33.0.0)!
+
 [Email](liyexuan23@mails.tsinghua.edu.cn) / [Wechat](../images/Wechat.jpg) / [Phone Number](+86-13961583379)
 
 My research interest
