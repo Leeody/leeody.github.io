@@ -23,10 +23,11 @@ repository               : "Leeody/Leeody.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李叶煊\n  YEXUAN LI"
+  name             : "李叶煊"
+  name             : "YEXUAN LI"
   pronouns         :  example: "she/her"  
   bio              : "独立之精神，自由之思想"
-  location         : "DIMACS, Rutgers University, New Jersey, USA"
+  location         : "DIMACS, Rutgers University, NJ"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "liyexuan23@mails.tsinghua.edu.cn" 
