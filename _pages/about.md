@@ -13,7 +13,7 @@ I'm a sophomore student from [School of Economics and Management](https://www.se
 
 You can find my CV here: [My Curriculum Vitae](<../assets/CV Yexuan Li.pdf>).
 
-[Email](liyexuan23@mails.tsinghua.edu.cn) / [Wechat](../images/Wechat.jpg)
+[Email](liyexuan23@mails.tsinghua.edu.cn) / [Wechat](../images/Wechat.jpg) / [Phone Number](+86-13961583379)
 
 My hobbies
 ======
