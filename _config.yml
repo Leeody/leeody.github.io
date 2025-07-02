@@ -22,9 +22,9 @@ repository               : "Leeody/Leeody.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headpict1.png"
-  name             : "李叶煊       YEXUAN LI"
-  pronouns         : "she/her"  
+  avatar           : "headpict2.png"
+  name             : "李叶煊 (YEXUAN LI)"
+  pronouns         : "he/him"  
   bio              : "独立之精神，自由之思想"
   location         : "DIMACS, Rutgers University, NJ"
   employer         : "Tsinghua University"
