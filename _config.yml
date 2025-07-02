@@ -280,6 +280,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _recentworks
+  - scope:
+      path: ""
+      type: recentworks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
