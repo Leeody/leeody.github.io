@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李叶煊 Yexuan Li"
-  pronouns         :  example: "he/him"  
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "DIMACS, Rutgers University, New Jersey"
-  employer         : "Tsinghua University"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "liyexuan23@mails.tsinghua.edu.cn" 
+  email            : "none@example.org"  
 
   # Academic websites
   academia         : # URL
