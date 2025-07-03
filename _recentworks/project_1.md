@@ -5,7 +5,7 @@ type: "AI and Econ research"
 permalink: /recentworks/project_1
 venue: "DIMACS, Rutgers University"
 date: 2025-07-01
-location: "Piscataway, NJ"
+location: "NJ, USA"
 ---
 
 <!--
