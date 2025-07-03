@@ -1,11 +1,11 @@
 ---
 title: "Project 1: AI and voting"
 collection: recentworks
-type: "Undergraduate course"
+type: "AI and Econ research"
 permalink: /recentworks/project_1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "DIMACS, Rutgers University"
+date: 2025-07-01
+location: "Piscataway, NJ"
 ---
 
 #This is a description of a teaching experience. You can use markdown like any other post.
