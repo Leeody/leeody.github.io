@@ -4,7 +4,7 @@ collection: recentworks
 type: "AI and Econ research"
 permalink: /recentworks/project_1
 venue: "DIMACS, Rutgers University"
-date: 2025-07-01
+date: 2025-07-01 to 2025-08-01
 location: "NJ, USA"
 ---
 
