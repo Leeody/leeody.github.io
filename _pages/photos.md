@@ -21,6 +21,7 @@ Here I will share with you my favourite moments in my life!
 
   <div style="flex: 0 0 30%; text-align: center;">
     <img src="/images/20250702_1.jpg" style="width: 100%; height: auto; border-radius: 8px;" alt="Rutgers Welcome" />
+    #<p>Rutgers Welcome Center</p>
   </div>
 
   <div style="flex: 0 0 30%; text-align: center;">
@@ -32,6 +33,10 @@ Here I will share with you my favourite moments in my life!
   </div>
 
 </div>
+
+<p style="text-align: center; margin-top: 10px;">
+  These photos were taken on my first day at Rutgers University. The campus was full of historical charm and the Scarlet Knight statue gave me a great sense of welcome.
+</p>
 
 <br/>
 
