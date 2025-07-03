@@ -285,10 +285,9 @@ defaults:
       path: ""
       type: recentworks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comments: true
   # _talks
   - scope:
       path: ""
