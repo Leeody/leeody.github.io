@@ -8,7 +8,9 @@ date: 2025-07-01
 location: "Piscataway, NJ"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
+<!--
+This is a description of a teaching experience. You can use markdown like any other post.
+-->
 
 Week 1
 ======
