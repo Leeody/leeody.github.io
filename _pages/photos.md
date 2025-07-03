@@ -21,7 +21,6 @@ Here I will share with you my favourite moments in my life!
 
   <div style="flex: 0 0 30%; text-align: center;">
     <img src="/images/20250702_1.jpg" style="width: 100%; height: auto; border-radius: 8px;" alt="Rutgers Welcome" />
-    #<p>Rutgers Welcome Center</p>
   </div>
 
   <div style="flex: 0 0 30%; text-align: center;">
