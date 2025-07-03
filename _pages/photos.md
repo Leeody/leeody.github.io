@@ -17,6 +17,15 @@ Here I will share with you my favourite moments in my life!
 ---
 
 ## 2025
+<div style="display: flex; gap: 10px; justify-content: flex-start;">
+
+  <img src="/images/20250702_1.jpg" style="width: 30%; height: auto;" alt="Rutgers Welcome" />
+  <img src="/images/20250702_2.jpg" style="width: 30%; height: auto;" alt="Old Building" />
+  <img src="/images/20250702_3.jpg" style="width: 30%; height: auto;" alt="Knight" />
+
+</div>
+
+
 
 <div style="display: flex; gap: 10px; justify-content: flex-start;">
 
