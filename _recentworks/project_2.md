@@ -1,20 +1,20 @@
 ---
 title: "Project 2：Model of Competiton between Countries"
 collection: recentworks
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Game Theory"
+permalink: /recentworks/project_2
+venue: "SEM, Tsinghua University"
+date: 2025-06-01
+location: "Beijing, CN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+about···
 
-Heading 1
+Week 1
 ======
 
-Heading 2
+Week 2
 ======
 
-Heading 3
+Week 3
 ======
