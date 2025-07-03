@@ -17,6 +17,7 @@ Here I will share with you my favourite moments in my life!
 ---
 
 ## 2025
+### 07/01/2025
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 30%; text-align: center;">
@@ -34,11 +35,12 @@ Here I will share with you my favourite moments in my life!
 </div>
 
 <p style="text-align: center; margin-top: 10px;">
-  These photos were taken on my first day at Rutgers University. The campus was full of historical charm and the Scarlet Knight statue gave me a great sense of welcome.
+  We arrived at Rutgers on 29th. June and started our summer research. The environment in Piscataway is very quiet and convenient.
 </p>
 
 <br/>
 
+### 04/12/2025
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 30%; text-align: center;">
