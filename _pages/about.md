@@ -35,6 +35,11 @@ If you want to see more details, please see my [Recent Works](https://leeody.git
 
 My hobbies
 ======
+I like reading, watching films (war and history films and comedy), playing games (Kards, Heart of Iron IV and Waorld of Warships, now you know why I like strategies! :P) and writing poems or novels (but I was too busy to start!😢).
+
+These days I find Japanese Karuta cards an extremely cool and fun game! But 100 Wakas are really difficult for me to remember. I just watch an Anime named [Chihayafuru](https://www.bilibili.com/bangumi/play/ep11240?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0) about that. And based on that, I want to create a similar game using *Three Hundred Tang Poems*. If you also want to have a try, please tell me!
+
+
 <!--
 My recent research interests are mainly about 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -60,7 +65,7 @@ The repository includes [a set of Jupyter notebooks](https://github.com/academic
 
 For more info
 ======
-This latest version was uploaded on 07/03/2025. I will keep updating it!
+This latest version was uploaded on 07/09/2025. I will keep updating it!
 <!--
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
