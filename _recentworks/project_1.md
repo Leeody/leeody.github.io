@@ -14,7 +14,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Week 1
 ======
-You can find my paper here: [Paper](<../assets/decentralization1.pdf>) and [PPT](<../assets/decentralppt1.pdf>).
+%You can find my paper here: [Paper](<../assets/decentralization1.pdf>) and [PPT](<../assets/decentralppt1.pdf>).
 
 
 
