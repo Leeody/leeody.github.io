@@ -41,7 +41,7 @@ Week 3 (14/07 - 20/07)
 - Monday: 
 - Tuesday:
 - Wednesday:
-- Thursday: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT]() here.
+- Thursday: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](_recentworks/files/project1_ppt_0717_v1.pdf) here.
 - Friday:
 - Saturday:
 - Sunday:
