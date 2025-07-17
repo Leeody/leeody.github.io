@@ -17,6 +17,8 @@ This is a description of a teaching experience. You can use markdown like any ot
 - [Week 1 (30/06 - 06/07)](#week-1-3006---0607)
 - [Week 2 (07/07 - 13/07)](#week-2-0707---1307)
 - [Week 3 (14/07 - 20/07)](#week-3-1407---2007)
+- [Week 4 (21/07 - 27/07)](#week-4-2107---2707)
+- [Week 5 (28/07 - 04/08)](#week-5-2807---0408)
 
 ---
 
@@ -26,7 +28,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 - Tuesday: Today we attended a seminar about **Formalizing mathematics with Lean and Mathlib**. The professor introduced how to check a proof through these programms. Most of this seminar was understandable. To my surprise, The seminar also provided us with pizza! Delicious! :P  
 - Wednesday:  
 - Thursday:  
-- Friday: Today was the Independence Day! So we travelled to New York.  
+- Friday: Today was the Independence Day! So we travelled to New York. I imagined to meet some parades, but actually it was harmonious in the streets. I found many small stands selling cheap hats and souveniers. And we also went to many famous attractions, like the bull in Wall Street. It's really a prosprous city!  
 - Saturday:  
 - Sunday:  
 
@@ -54,3 +56,12 @@ This is a description of a teaching experience. You can use markdown like any ot
 - Saturday:  
 - Sunday:  
 
+---
+
+## Week 4 (21/07 - 27/07)
+
+---
+
+## Week 5 (28/07 - 04/08)
+
+---
