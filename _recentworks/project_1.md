@@ -44,7 +44,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 - **Monday**:  
 - **Tuesday**:  
 - **Wednesday**:  
-- **Thursday**: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](_recentworks/files/project1_ppt_0717_v1.pdf) here.  
+- **Thursday**: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](_recentworks/files/project1_ppt_0717_v1.pdf) here. In the afternoon, I read some materials about Economic Geography, including [*Why cities lose*](https://www.jonathanrodden.com/why-cities-lose), which studies how votees distribute would affect the election results. 
 - **Friday**:  
 - **Saturday**:  
 - **Sunday**:  
