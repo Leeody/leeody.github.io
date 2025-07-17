@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Project 2：Model of Competiton between Countries"
 collection: recentworks
@@ -18,3 +19,4 @@ Week 2
 
 Week 3
 ======
+-->
