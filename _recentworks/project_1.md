@@ -12,23 +12,27 @@ location: "NJ, USA"
 This is a description of a teaching experience. You can use markdown like any other post.
 -->
 
-Week 1 （30/06 - 06/07）
-======
+# Contents
+
+- [Week 1 (30/06 - 06/07)](#week-1-3006---0607)
+- [Week 2 (07/07 - 13/07)](#week-2-0707---1307)
+- [Week 3 (14/07 - 20/07)](#week-3-1407---2007)
+
+---
+
+## Week 1 (30/06 - 06/07)
 
 - Monday: We flied to JFK from PKX and arrived at Rutgers in the afternoon, June 29. Nadya and Ava showed us around here and brought us to buy some food. We also got some free pots, plaits and bowls from his office. That's really convenient! On Monday, Larry showed us our offices and told us plans in the near future. I also sent emails to some professors, asking them whether they want to be my advisors. Unluckily, mang of them were busy in summer holiday. This *searching pattern* would still continue for some days. :(  
-- Tuesday: Today we attended a seminar about **Formalizing mathematics with Lean and Mathlib**. The professor introduced how to check a proof through these programms. Most of this seminar was understandable. To my surprise, The seminar also provided us with pizza! Delicious! :P
-- Wednesday:
-- Thursday:
-- Friday: Today was the Indepence Day! So we travelled to New York.
-- Saturday:
-- Sunday:
+- Tuesday: Today we attended a seminar about **Formalizing mathematics with Lean and Mathlib**. The professor introduced how to check a proof through these programms. Most of this seminar was understandable. To my surprise, The seminar also provided us with pizza! Delicious! :P  
+- Wednesday:  
+- Thursday:  
+- Friday: Today was the Independence Day! So we travelled to New York.  
+- Saturday:  
+- Sunday:  
 
------
+---
 
-
-
-Week 2 （07/07 - 13/07）
-======
+## Week 2 (07/07 - 13/07)
 
 - Monday:  
 - Tuesday:  
@@ -38,13 +42,15 @@ Week 2 （07/07 - 13/07）
 - Saturday:  
 - Sunday:  
 
-Week 3 （14/07 - 20/07）
-======
+---
+
+## Week 3 (14/07 - 20/07)
 
 - Monday:  
 - Tuesday:  
 - Wednesday:  
-- Thursday: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](_recentworks/files/project1_ppt_0717_v1.pdf) here. In the afternoon, I read some materials about Economic Geography, including [*Why cities lose*](https://www.jonathanrodden.com/why-cities-lose), which studies how votees distribute would affect the election results. 
+- Thursday: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](_recentworks/files/project1_ppt_0717_v1.pdf) here. In the afternoon, I read some materials about Economic Geography, including [*Why cities lose*](https://www.jonathanrodden.com/why-cities-lose), which studies how votees distribute would affect the election results.  
 - Friday:  
 - Saturday:  
 - Sunday:  
+
