@@ -37,18 +37,18 @@ This is a description of a teaching experience. You can use markdown like any ot
 ## Week 2 (07/07 - 13/07)
 
 - Monday: Today I chatted with Pro. Xia online and went to Pro. Gao's office. I introduced my primary opinions and model to them and discussed what to explore next. They gave me some directions, for example, structure balance, complexity analysis, and competition strategy. After that I searched some papers about these topics and studied from them.
-- Tuesday: 
-- Wednesday:  
-- Thursday:  
-- Friday:  
+- Tuesday: I read others' websites and I thought I need to write briefly. Here was not my diary hhh. This week I mainly read some related papers, thought about literature review, and continued to write my model. I finished a small paper with 15 pages, including new ideas about dunamic analysis and competition strategy.
+- Wednesday: Working!
+- Thursday: Working!!
+- Friday: Working!!!
 - Saturday: Today we travelled to New York again! We took a boat to Liberty Island and saw Statue of Liberty. Memoriable Day! 
-- Sunday:  
+- Sunday: Reture to work.
 
 ---
 
 ## Week 3 (14/07 - 20/07)
 
-- Monday:  
+- Monday: Finishing my model and preparing for meeting tomorrow.
 - Tuesday: Today I had a meeting with Pro. Xia in the morning
 - Wednesday:  
 - Thursday: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](/assets/recentworks/project1_ppt_0717_v1.pdf) here. In the afternoon, I read some materials about Economic Geography, including [*Why cities lose*](https://www.jonathanrodden.com/why-cities-lose), which studies how votees distribute would affect the election results.  
