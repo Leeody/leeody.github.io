@@ -12,6 +12,8 @@ location: "NJ, USA"
 This is a description of a teaching experience. You can use markdown like any other post.
 -->
 
+{% raw %}
+
 <details open>
 <summary><strong>Week 1 (30/06 - 06/07)</strong></summary>
 
@@ -50,3 +52,5 @@ This is a description of a teaching experience. You can use markdown like any ot
 - **Sunday**:  
 
 </details>
+
+{% endraw %}
