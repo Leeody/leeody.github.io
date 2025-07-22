@@ -10,6 +10,7 @@ location: "Piscataway, New Jersey"
 
 We arrived in Busch Campus to attend [DIMACS REU 2025](https://reu.dimacs.rutgers.edu/)!
 
+<!--
 Heading 1
 ======
 
@@ -18,3 +19,4 @@ Heading 2
 
 Heading 3
 ======
+-->
