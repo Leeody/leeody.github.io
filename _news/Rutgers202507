@@ -6,6 +6,10 @@ permalink: /news/Rutgers202507/
 venue: "Busch Campus, Rutgers University, NJ, July"
 date: 2025-07-01
 location: "Piscataway, New Jersey"
+layout: single
+author_profile: true
+share: true
+comments: true
 ---
 
 We arrived in Busch Campus to attend [DIMACS REU 2025](https://reu.dimacs.rutgers.edu/)!
