@@ -69,5 +69,5 @@ For more info
 ======
 This latest version was uploaded on 07/22/2025. I will keep updating it!
 <!--
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+如果要给导航栏加新页，需要改：data的nacigation、config、page新增一个、include和layout改格式
 -->
