@@ -219,6 +219,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
   recentworks:
     output: true
     permalink: /:collection/:path/
