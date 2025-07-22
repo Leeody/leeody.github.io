@@ -36,37 +36,37 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 ## Week 2 (07/07 - 13/07)
 
-- Monday: Today I chatted with Pro. Xia online and went to Pro. Gao's office. I introduced my primary opinions and model to them and discussed what to explore next. They gave me some directions, for example, structure balance, complexity analysis, and competition strategy. After that I searched some papers about these topics and studied from them.
-- Tuesday: I read others' websites and I thought I need to write briefly. Here was not my diary hhh. This week I mainly read some related papers, thought about literature review, and continued to write my model. I finished a small paper with 15 pages, including new ideas about dunamic analysis and competition strategy.
-- Wednesday: Working!
-- Thursday: Working!!
-- Friday: Working!!!
-- Saturday: Today we travelled to New York again! We took a boat to Liberty Island and saw Statue of Liberty. Memoriable Day! 
-- Sunday: Still working.
+- **Monday**: Today I chatted with Pro. Xia online and went to Pro. Gao's office. I introduced my primary opinions and model to them and discussed what to explore next. They gave me some directions, for example, structure balance, complexity analysis, and competition strategy. After that I searched some papers about these topics and studied from them.
+- **Tuesday**: I read others' websites and I thought I need to write briefly. Here was not my diary hhh. This week I mainly read some related papers, thought about literature review, and continued to write my model. I finished a small paper with 15 pages, including new ideas about dunamic analysis and competition strategy.
+- **Wednesday**: Working!
+- **Thursday**: Today we visited the Nokia Bell Labs, learning the history about it and watched them operating robots. Also, we attended a panel with some of their employees, who do research and developing working here and also guide some Ph.d students. They thought their works there both happy and interesting. It's just a little bit different from that in universities, but I can still enjoying studying, maybe lacking some communication opportunities.
+- **Friday**: Working!!!
+- **Saturday**: Today we travelled to New York again! We took a boat to Liberty Island and saw Statue of Liberty. Memoriable Day! 
+- **Sunday**: Still working.
 
 ---
 
 ## Week 3 (14/07 - 20/07)
 
-- Monday: Finishing my model and preparing for meeting tomorrow.
-- Tuesday: Today I had a meeting with Pro. Xia in the morning. The biggst problem we faced was our model may not make sense with election. There were lots of difficulties for us to overcome before reaching a powerful model in party's view. So we needed to do extensions and tell a new story. Moreover, I finished my PPT for Thursday.
-- Wednesday: I searched papers in Social Networks and Friedkin-Johnson Model, I planned to apply my model to opinion evolution and friend group formation. I listened to other students' pre ifirst group. They have worked for two months, so their pre were a little bit abstract to me. 
-- Thursday: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](/assets/recentworks/project1_ppt_0717_v1.pdf) here. In the afternoon, I read some materials about Economic Geography, including [*Why cities lose*](https://www.jonathanrodden.com/why-cities-lose), which studies how votees distribute would affect the election results.  
-- Friday:  
-- Saturday:  
-- Sunday:  
+- **Monday**: Finishing my model and preparing for meeting tomorrow.
+- **Tuesday**: Today I had a meeting with Pro. Xia in the morning. The biggst problem we faced was our model may not make sense with election. There were lots of difficulties for us to overcome before reaching a powerful model in party's view. So we needed to do extensions and tell a new story. Moreover, I finished my PPT for Thursday.
+- **Wednesday**: I searched papers in Social Networks and Friedkin-Johnson Model, I planned to apply my model to opinion evolution and friend group formation. I listened to other students' pre ifirst group. They have worked for two months, so their pre were a little bit abstract to me. 
+- **Thursday: Today I gave a pre about my work in five minutes. I briefly introduced our motivation and models and I gave some examples, which I think is very clear. You can find my [PPT](/assets/recentworks/project1_ppt_0717_v1.pdf) here. In the afternoon, I read some materials about Economic Geography, including [*Why cities lose*](https://www.jonathanrodden.com/why-cities-lose), which studies how votees distribute would affect the election results. Moreover, we hosted a campfire again! We played UNO and ate barbecue. I was a little bit tired so I came back home earlier.
+- **Friday**:  
+- **Saturday**:  
+- **Sunday**:  
 
 ---
 
 ## Week 4 (21/07 - 27/07)
 
-- Monday: Today I joined in the Math Day in Jane Street, NY. We played many 
-- Tuesday: Today I had a meeting with Pro. Xia in the morning. The biggst problem we faced was our model may not make sense with election. There were lots of difficulties for us to overcome before reaching a powerful model in party's view. So we needed to do extensions and tell a new story. Moreover, I finished my PPT for Thursday.
-- Wednesday: I searched papers in Social Networks and Friedkin-Johnson Model, I planned to apply my model to opinion evolution and friend group formation. I listened to other students' pre ifirst group. They have worked for two months, so their pre were a little bit abstract to me. 
-- Thursday: 
-- Friday:  
-- Saturday:  
-- Sunday:
+- **Monday**: Today I joined in the Math Day in Jane Street, NY. We played many 
+- **Tuesday**: Today I had a meeting with Pro. Xia in the morning. The biggst problem we faced was our model may not make sense with election. There were lots of difficulties for us to overcome before reaching a powerful model in party's view. So we needed to do extensions and tell a new story. Moreover, I finished my PPT for Thursday.
+- **Wednesday**: I searched papers in Social Networks and Friedkin-Johnson Model, I planned to apply my model to opinion evolution and friend group formation. I listened to other students' pre ifirst group. They have worked for two months, so their pre were a little bit abstract to me. 
+- **Thursday**: 
+- **Friday**:  
+- **Saturday**:  
+- **Sunday**:
 
 ---
 
