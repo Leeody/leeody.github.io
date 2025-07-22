@@ -60,6 +60,14 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 ## Week 4 (21/07 - 27/07)
 
+- Monday: Finishing my model and preparing for meeting tomorrow.
+- Tuesday: Today I had a meeting with Pro. Xia in the morning. The biggst problem we faced was our model may not make sense with election. There were lots of difficulties for us to overcome before reaching a powerful model in party's view. So we needed to do extensions and tell a new story. Moreover, I finished my PPT for Thursday.
+- Wednesday: I searched papers in Social Networks and Friedkin-Johnson Model, I planned to apply my model to opinion evolution and friend group formation. I listened to other students' pre ifirst group. They have worked for two months, so their pre were a little bit abstract to me. 
+- Thursday: 
+- Friday:  
+- Saturday:  
+- Sunday:
+
 ---
 
 ## Week 5 (28/07 - 04/08)
