@@ -15,7 +15,7 @@ You can find my CV here: [My Curriculum Vitae](<../assets/CV Yexuan Li.pdf>).
 
 Also, welcome to [My Bilibili Homepage](https://space.bilibili.com/1122146233?spm_id_from=333.33.0.0)! Here you can see my blogs and class videos, and I have also uploaded some course reviewing notes. Of course, more complete course materials can be found on the website.
 
-My office now is in Room 450, CoRE Building, Busch Campus, Rutgers University.
+Now I am not assigned an office in UCB, but I like to study in Long Business Library.
 
 You can contact me through: [Email](liyexuan23@mails.tsinghua.edu.cn) / [Wechat](../images/Wechat.jpg) / [Phone Number](+86-13961583379).
 
