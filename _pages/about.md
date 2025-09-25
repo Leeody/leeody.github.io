@@ -73,9 +73,10 @@ This latest version was uploaded on 09/04/2025. I will keep updating it!
 如果要给导航栏加新页，需要改：data的nacigation、config、page新增一个、include和layout改格式
 -->
 
-<details>
-<summary><h2>Change Log</h2></summary>
+## Change Log
 
+<details>
+<summary>展开/收起日志</summary>
 
 ### 09/24/2025
 - Add Change Log
