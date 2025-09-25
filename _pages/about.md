@@ -76,7 +76,6 @@ This latest version was uploaded on 09/04/2025. I will keep updating it!
 <details>
 <summary><h2>Change Log</h2></summary>
 
-<br>
 
 ### 09/24/2025
 - Add Change Log
