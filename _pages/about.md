@@ -74,13 +74,13 @@ This latest version was uploaded on 09/04/2025. I will keep updating it!
 -->
 
 <details>
-  <summary><h2>Change Log</h2></summary>
+<summary><span style="font-size:1.5em; font-weight:bold;">Change Log</span></summary>
 
-  <h3>09/24/2025</h3>
-  <ul>
-    <li>Add Change Log</li>
-    <li>Add my signature</li>
-  </ul>
+<h3>09/24/2025</h3>
+<ul>
+  <li>Add Change Log</li>
+  <li>Add my signature</li>
+</ul>
 
 </details>
 
