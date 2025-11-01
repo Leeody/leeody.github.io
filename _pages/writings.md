@@ -3,6 +3,7 @@ layout: single
 title: "Writings"
 permalink: /writings/
 author_profile: true
+nav_exclude: true
 ---
 
 ## 诗集
