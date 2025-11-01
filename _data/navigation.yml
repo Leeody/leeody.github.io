@@ -23,8 +23,7 @@ main:
   - title: "Photos"
     url: /photos/
 
-  #- title: "Writings"
-  #  url: /writings/
+
 
   - title: "News"
     url: /news/
