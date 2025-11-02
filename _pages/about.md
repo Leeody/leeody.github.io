@@ -69,7 +69,7 @@ The repository includes [a set of Jupyter notebooks](https://github.com/academic
 
 For more info
 ======
-This latest version was uploaded on 10/30/2025. I will keep updating it!
+This latest version was uploaded on 11/01/2025. I will keep updating it!
 ![签名](../assets/about/3.jpg)
 <!--
 如果要给导航栏加新页，需要改：data的nacigation、config、page新增一个、include和layout改格式
@@ -77,6 +77,11 @@ This latest version was uploaded on 10/30/2025. I will keep updating it!
 
 <details>
 <summary><span style="font-size:1.5em; font-weight:bold;">Change Log</span></summary>
+
+<h3>11/01/2025</h3>
+<ul>
+  <li>Move some writings to another <a href="https://leeody.github.io/myblogs/">website</a></li>
+</ul>
 
 <h3>10/30/2025</h3>
 <ul>
