@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://leeody.github.io/sitemap.xml
