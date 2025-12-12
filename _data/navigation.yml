@@ -14,6 +14,9 @@ main:
   - title: "Recent Works"
     url: /recentworks/
 
+  - title: "Research"
+    url: /research/
+
   #- title: "Talks"
   #  url: /talks/    
 
@@ -29,14 +32,14 @@ main:
   - title: "News"
     url: /news/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
+   - title: "CV"
+     url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
