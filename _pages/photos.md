@@ -3,6 +3,8 @@ layout: single
 title: "Photos"
 permalink: /photos/
 author_profile: true
+toc: false
+sidebar: false
 ---
 
 ## Welcome to my photo album!
