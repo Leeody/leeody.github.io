@@ -268,7 +268,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   _news
+  # _news
   - scope:
       path: ""
       type: news
@@ -277,7 +277,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   _publications
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -311,7 +311,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _talks
+   _talks
   - scope:
       path: ""
       type: talks
