@@ -259,7 +259,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+   _teaching
   - scope:
       path: ""
       type: teaching
@@ -268,7 +268,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _news
+   _news
   - scope:
       path: ""
       type: news
@@ -277,7 +277,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+   _publications
   - scope:
       path: ""
       type: publications
@@ -295,7 +295,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _recentworks
+   _recentworks
   - scope:
       path: ""
       type: recentworks
@@ -303,7 +303,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _research
+   _research
   - scope:
       path: ""
       type: recentworks
