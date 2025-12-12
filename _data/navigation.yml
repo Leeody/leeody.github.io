@@ -17,8 +17,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -29,14 +29,14 @@ main:
   - title: "Writings"
     url: /writings/
 
-  #- title: "News"
-  #  url: /news/
+  - title: "News"
+    url: /news/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
