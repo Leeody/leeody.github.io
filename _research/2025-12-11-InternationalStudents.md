@@ -1,7 +1,7 @@
 ---
 title: "International Students Bring Faster TFP Growth: an Extension to the Endogenous Growth Model"
 collection: research
-category: writing sample
+category: writing
 permalink: /research/2025-12-11-InternationalStudents
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-12-08
