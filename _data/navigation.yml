@@ -30,16 +30,16 @@ main:
     url: /writings/
 
   #- title: "News"
-    url: /news/
+  #  url: /news/
         
   #- title: "Blog Posts"
-    url: /year-archive/
+  #  url: /year-archive/
     
   #- title: "CV"
-    url: /cv/
+  #  url: /cv/
     
   # - title: "CV"
-     url: /cv-json/
+  #   url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
