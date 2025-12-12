@@ -11,7 +11,7 @@ sidebar: false
 
 {% include base_path %}
 
-This is a brief CV. For more, please refer to 
+This is a brief CV. For more, please refer to [My Curriculum Vitae](<../assets/CV Yexuan Li.pdf>).
 
 Education
 ======
