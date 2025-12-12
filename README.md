@@ -4,7 +4,7 @@
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # 修改建议
-想要加标签，需要改：navi改导航标签与顺序；config改配置；在根目录新建多页文档；includes_head的几个archive看具体设置；page加页面html
+想要加标签，需要改：navi改导航标签与顺序；config改配置；在根目录新建多页文档；includes_head的几个archive看具体设置,layout改子页面格式；page加页面html
 
 # Getting Started
 
