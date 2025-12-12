@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "International Students Bring Faster TFP Growth: an Extension to the Endogenous Growth Model"
 collection: research
 category: writing sample
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /research/2025-12-11-InternationalStudents
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-12-08
 venue: 'Journal 1'
