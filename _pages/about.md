@@ -11,8 +11,6 @@ Hiiiiiii! Welcome to my page! :D
 
 I'm a sophomore student from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/index.htm). My major is [Xuetang Class of Economics](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jjxxtb.htm), which is aimed at training the best economists. Fortunately, I get instructed by the most famous economist, [Pro. Yinyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm), and I do want to do some excellent works in economy. Besides that, I also have great interests in Maths, Physics, Politics and Chinese Literature. Now I am also studying a minor degree of Physics in Tsinghua. Learning physics is really attractive to me! I like reading and writing too, and you can view my works on this website.
 
-You can find my CV here: [My Curriculum Vitae](<../assets/CV Yexuan Li.pdf>).
-
 Also, welcome to [My Bilibili Homepage](https://space.bilibili.com/1122146233?spm_id_from=333.33.0.0)! Here you can see my blogs and class videos, and I have also uploaded some course reviewing notes. Of course, more complete course materials can be found on the website.
 
 If you want to know more about me and my lives, you would find many surprises there [Navigation](https://leeody.github.io/mywebsite_apotheke/), in which you can read my [blogs](https://leeody.github.io/myblogs/) written in Chinese.
