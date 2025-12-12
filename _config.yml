@@ -225,6 +225,9 @@ collections:
   recentworks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -293,6 +296,14 @@ defaults:
       share: true
       comment: true
   # _recentworks
+  - scope:
+      path: ""
+      type: recentworks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _research
   - scope:
       path: ""
       type: recentworks
