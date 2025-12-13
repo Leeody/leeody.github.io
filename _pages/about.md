@@ -76,6 +76,11 @@ This latest version was uploaded on 11/01/2025. I will keep updating it!
 <details>
 <summary><span style="font-size:1.5em; font-weight:bold;">Change Log</span></summary>
 
+<h3>12/12/2025</h3>
+<ul>
+  <li>Add some new subsites</li>
+</ul>
+
 <h3>11/01/2025</h3>
 <ul>
   <li>Move some writings to another <a href="https://leeody.github.io/myblogs/">website</a></li>
