@@ -23,6 +23,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Notes"
+    url: /notes/
+
   - title: "Writings"
     url: /writings/
 
