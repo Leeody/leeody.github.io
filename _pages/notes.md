@@ -9,6 +9,10 @@ In this page I will share some of my studying notes, which I have sorted by subj
 
 ## Economics
 
+### Microeconomics
+
+* [Notes on Ariel's Micro Theory](https://drive.google.com/file/d/1Pc28Ualx87c1yf_39dMliHsrJXcFhvxi/view?usp=sharing)
+
 ## Maths
 
 
