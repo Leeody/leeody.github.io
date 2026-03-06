@@ -12,6 +12,7 @@ In this page I will share some of my studying notes, which I have sorted by subj
 ### Microeconomics
 
 * [Notes on Ariel's Micro Theory](https://drive.google.com/file/d/1Pc28Ualx87c1yf_39dMliHsrJXcFhvxi/view?usp=sharing)
+* [Price Theory II](https://drive.google.com/file/d/1G1V35C4fZ0WtmkpJIUOcbpIP_U4gKWRP/view?usp=sharing)
 
 ## Maths
 
