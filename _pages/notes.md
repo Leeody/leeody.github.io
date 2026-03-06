@@ -13,6 +13,8 @@ In this page I will share some of my studying notes, which I have sorted by subj
 
 * [Notes on Ariel's Micro Theory](https://drive.google.com/file/d/1Pc28Ualx87c1yf_39dMliHsrJXcFhvxi/view?usp=sharing)
 * [Price Theory II](https://drive.google.com/file/d/1G1V35C4fZ0WtmkpJIUOcbpIP_U4gKWRP/view?usp=sharing)
+* [Topics in theoretical Economics](https://drive.google.com/file/d/1vX16rtsarFGf6864xkydp-9PqgSWrM97/view?usp=sharing)
+* [Auction Theory](https://drive.google.com/file/d/1hExsbXaao7zUs7ksfRu_TsQloaDarZ_p/view?usp=sharing)
 
 ## Maths
 
