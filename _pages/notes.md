@@ -18,6 +18,7 @@ In this page I will share some of my studying notes, which I have sorted by subj
 
 ### Macroeconomics
 
+* [Theory of Income II Reviewing Notes](https://drive.google.com/file/d/1WjZFLMEdr1Fsg_2I2JFaLc6IhW4jHEwQ/view?usp=sharing)
 * [Notes on "Models of Business Cycles" by Lucas](https://drive.google.com/file/d/1t0RM27ta-wlJYQWy372yf5efQFju31yg/view?usp=sharing)
 
 ## Maths
