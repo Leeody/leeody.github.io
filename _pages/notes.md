@@ -15,6 +15,7 @@ In this page I will share some of my studying notes, which I have sorted by subj
 * [Price Theory II](https://drive.google.com/file/d/1G1V35C4fZ0WtmkpJIUOcbpIP_U4gKWRP/view?usp=sharing)
 * [Topics in theoretical Economics](https://drive.google.com/file/d/1vX16rtsarFGf6864xkydp-9PqgSWrM97/view?usp=sharing)
 * [Auction Theory](https://drive.google.com/file/d/1hExsbXaao7zUs7ksfRu_TsQloaDarZ_p/view?usp=sharing)
+* [Introduction to Economic Design](https://drive.google.com/file/d/1w_NXRWaCwJRTx_qjiCL144PFTxJbN_xj/view?usp=sharing)
 
 ### Macroeconomics
 
