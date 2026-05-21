@@ -5,7 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-In this page I will share some of my studying notes, which I have sorted by subjects and learning orders. Some of them are my chinese notes of undergraduate courses, while other notes are in english. Since I have a habit of taking notes when learning new knowledge, they approximately cover what I have learned till now. Here are my advice on studying map (remind me of uploading them!). You can view and download all these profiles. I would appreciate it if you could tell me any typo or mistakes you find!
+In this page I will share some of my studying notes, which I have sorted by subjects and learning orders. Some of them are my Chinese notes of undergraduate or graduate level courses, while other notes are in English. Since I have a habit of taking notes when learning new knowledge, they approximately cover what I have learned till now. Here are my advice on studying map (remind me of uploading them!). You can view and download all these profiles. I would appreciate it if you could tell me any typo or mistakes you find!
 
 ## Economics
 
